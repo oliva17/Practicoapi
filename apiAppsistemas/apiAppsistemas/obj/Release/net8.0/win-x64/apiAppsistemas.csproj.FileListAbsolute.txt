@@ -1,0 +1,7 @@
+C:\Users\Ariana Oliva\Desktop\ARIANA-UPDS\apiAppsistemas\apiAppsistemas\obj\Release\net8.0\win-x64\apiAppsistemas.csproj.AssemblyReference.cache
+C:\Users\Ariana Oliva\Desktop\ARIANA-UPDS\apiAppsistemas\apiAppsistemas\obj\Release\net8.0\win-x64\apiAppsistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariana Oliva\Desktop\ARIANA-UPDS\apiAppsistemas\apiAppsistemas\obj\Release\net8.0\win-x64\apiAppsistemas.AssemblyInfoInputs.cache
+C:\Users\Ariana Oliva\Desktop\ARIANA-UPDS\apiAppsistemas\apiAppsistemas\obj\Release\net8.0\win-x64\apiAppsistemas.AssemblyInfo.cs
+C:\Users\Ariana Oliva\Desktop\ARIANA-UPDS\apiAppsistemas\apiAppsistemas\obj\Release\net8.0\win-x64\apiAppsistemas.csproj.CoreCompileInputs.cache
+C:\Users\Ariana Oliva\Desktop\ARIANA-UPDS\apiAppsistemas\apiAppsistemas\obj\Release\net8.0\win-x64\apiAppsistemas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ariana Oliva\Desktop\ARIANA-UPDS\apiAppsistemas\apiAppsistemas\obj\Release\net8.0\win-x64\apiAppsistemas.MvcApplicationPartsAssemblyInfo.cache
